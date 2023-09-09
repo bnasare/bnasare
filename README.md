@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Asare Benedict Nana.
 - 👀 I’m interested in Mobile app development.
 - 🌱 I’m currently learning Clojure and Lisp.
-- 💞️ I’m looking to collaborate on mobile app projects
-- 📫 How to reach me: benedictasare2@gmai.com
+- 💞️ I’m looking to collaborate on mobile app projects.
+- 📫 How to reach me: benedictasare2@gmail.com.
+- ⏳ Currently building an ecommerce app for the stores.
