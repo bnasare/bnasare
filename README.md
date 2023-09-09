@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bnasare
+- 👋 Hi, I’m Asare Benedict Nana.
 - 👀 I’m interested in Mobile app development.
 - 🌱 I’m currently learning Clojure and Lisp.
 - 💞️ I’m looking to collaborate on mobile app projects
