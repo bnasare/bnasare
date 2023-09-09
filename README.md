@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bnasare
+- 👀 I’m interested in Mobile app development.
+- 🌱 I’m currently learning Clojure and Lisp.
+- 💞️ I’m looking to collaborate on mobile app projects
+- 📫 How to reach me: benedictasare2@gmai.com
