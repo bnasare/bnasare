@@ -1,4 +1,4 @@
-<p align="left">-👋 Hi, I’m Asare Benedict Nana.<br>-👀 I’m interested in Mobile app development.<br>-🌱 I’m currently learning Data Structures and Algorithms.<br>-💞️ I’m looking to collaborate on mobile app projects.<br>-📫 How to reach me: benedictasare2@gmail.com.<br>-⏳ Currently building an ecommerce app for the stores.</p>
+<p align="left">-👋 Hi, I’m Asare Benedict Nana.<br>-👀 I’m interested in Mobile app development.<br>-🌱 I’m currently learning Data Structures and Algorithms.<br>-💞️ I’m looking to collaborate on mobile app projects.<br>-📫 How to reach me: benedictasare2@gmail.com.<br>-⏳ Currently building each day.</p>
 
 ###
 
