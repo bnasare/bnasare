@@ -1,4 +1,4 @@
-<p align="left">-👋 Hi, I’m Asare Benedict Nana.<br>-👀 I’m interested in Mobile app development(Flutter).<br>-🌱 I’m currently learning React.<br>-💞️ I’m looking to collaborate on mobile app projects.<br>-📫 How to reach me: benedictasare2@gmail.com.<br>-⏳ Master your craft piece by piece!</p>
+<p align="left">-👋 Hi, I’m Asare Benedict Nana.<br>-👀 I’m interested in Mobile app development(Flutter).<br>-💞️ I’m looking to collaborate on mobile app projects.<br>-📫 How to reach me: benedictasare2@gmail.com.<br>-⏳ Master your craft piece by piece!</p>
 
 ###
 
