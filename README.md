@@ -1,6 +1,6 @@
 # Asare Benedict Nana 👋
 
-🚀 **Software Engineer | A Philosopher | Financial Analyst in Training | Strength & Bodybuilding Advocate**
+🚀 **Software Engineer | A Philosopher | Financial Analyst in Training**
 
 ---
 
