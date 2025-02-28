@@ -45,5 +45,5 @@
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </div>
-<br style="line-height: 2;">
+<br style="line-height: 1;">
 Got an idea? Drop me a line - always up for a good challenge.
