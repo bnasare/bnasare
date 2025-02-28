@@ -7,18 +7,18 @@
 # 💡 About Me
 
 ## Professional Experience
-🔹 Lead Mobile Developer at **Superstars** – Leading the rebuild of a next-gen mobile app
-🔹 Mobile Developer at **Zomujo** – Building mental health applications
-🔹 Mobile Engineer at **Alle-AI** – Developing AI-powered mobile solutions
+- 🔹 Lead Mobile Developer at **Superstars** – Leading the rebuild of a next-gen mobile app
+- 🔹 Mobile Developer at **Zomujo** – Building mental health applications
+- 🔹 Mobile Engineer at **Alle-AI** – Developing AI-powered mobile solutions
 
 ## Technical Skills
-🔹 Backend & Web Development: **Node.js, Express, React, and WordPress**
-🔹 Database: **MySQL & MongoDB**
-🔹 Cloud & Infrastructure: **Firebase & Cloud Firestore, GitHub Actions** for CI/CD
+- 🔹 Backend & Web Development: **Node.js, Express, React, and WordPress**
+- 🔹 Database: **MySQL & MongoDB**
+- 🔹 Cloud & Infrastructure: **Firebase & Cloud Firestore, GitHub Actions** for CI/CD
 
 ## Interests & Hobbies
-🔹 Passionate about **AI, Finance, and Fitness**
-🔹 Gym enthusiast, focused on **strength training and bodybuilding** 🏋️‍♂️
+- 🔹 Passionate about **AI, Finance, and Strength Training**
+- 🔹 Gym enthusiast, training for **bodybuilding** 🏋️‍♂️
 
 ---
 
@@ -37,8 +37,7 @@
 ---
 
 ## 🔗 Connect with Me  
-
-<div 
+<div>
   <a href="https://www.linkedin.com/in/benedictasare/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -46,3 +45,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+Got an idea? Drop me a line - always up for a good challenge.
