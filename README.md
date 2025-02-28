@@ -6,17 +6,17 @@
 
 # 💡 About Me
 
-## Professional Experience
+### Professional Experience
 - 🔹 Lead Mobile Developer at **Superstars** – Leading the rebuild of a next-gen mobile app
 - 🔹 Mobile Developer at **Zomujo** – Building mental health applications
 - 🔹 Mobile Engineer at **Alle-AI** – Developing AI-powered mobile solutions
 
-## Technical Skills
+### Technical Skills
 - 🔹 Backend & Web Development: **Node.js, Express, React, and WordPress**
 - 🔹 Database: **MySQL & MongoDB**
 - 🔹 Cloud & Infrastructure: **Firebase & Cloud Firestore, GitHub Actions** for CI/CD
 
-## Interests & Hobbies
+### Interests & Hobbies
 - 🔹 Passionate about **AI, Finance, and Strength Training**
 - 🔹 Gym enthusiast, training for **bodybuilding** 🏋️‍♂️
 
