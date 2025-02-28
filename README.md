@@ -17,8 +17,8 @@
 - 🔹 Cloud & Infrastructure: **Firebase & Cloud Firestore, GitHub Actions** for CI/CD
 
 ### Interests & Hobbies
-- 🔹 Passionate about **AI, Finance, and Strength Training**
-- 🔹 Gym enthusiast, training for **bodybuilding** 🏋️‍♂️
+- 🔹 Passionate about **AI, Finance, and Fitness**
+- 🔹 Gym enthusiast, focusing on **strength training & bodybuilding** 🏋️‍♂️
 
 ---
 
