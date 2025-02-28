@@ -39,9 +39,9 @@
 
 ## 📈 GitHub Stats
 
-![Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benedict-asare&show_icons=true&theme=radical)
+![Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bnasare&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benedict-asare&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnasare&layout=compact&theme=radical)
 
 ---
 
