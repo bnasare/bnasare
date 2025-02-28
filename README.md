@@ -38,12 +38,12 @@
 
 ## 🔗 Connect with Me  
 <div>
-  <a href="https://www.linkedin.com/in/benedictasare/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:benedictasare2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <a href="https://www.linkedin.com/in/benedictasare/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:benedictasare2@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </div>
-
+<br style="line-height: 2;">
 Got an idea? Drop me a line - always up for a good challenge.
