@@ -4,17 +4,21 @@
 
 ---
 
-## 💡 About Me
+# 💡 About Me
 
-- 🔹 Lead Mobile Developer at **Superstars**– Leading the rebuild of a next-gen mobile app
-- 🔹 Mobile Developer at **Zomujo**– Building mental health applications
-- 🔹 Mobile Engineer at **Alle-AI**– Developing AI-powered mobile solutions
-- 🔹 Backend & Web Developer with **Node.js, Express, React, and WordPress**
-- 🔹 Database experience with **MySQL & MongoDB**
-- 🔹 DevOps enthusiast, working with **GitHub Actions** for CI/CD
-- 🔹 Experience with **Firebase & Cloud Firestore** for scalable backend solutions
-- 🔹 Passionate about **AI, Finance, and Strength Training**
-- 🔹 Gym enthusiast, training for **bodybuilding** 🏋️‍♂️
+## Professional Experience
+- 🔹 Lead Mobile Developer at **Superstars** – Leading the rebuild of a next-gen mobile app
+- 🔹 Mobile Developer at **Zomujo** – Building mental health applications
+- 🔹 Mobile Engineer at **Alle-AI** – Developing AI-powered mobile solutions
+
+## Technical Skills
+- 🔹 Backend & Web Development: **Node.js, Express, React, and WordPress**
+- 🔹 Database: **MySQL & MongoDB**
+- 🔹 Cloud & Infrastructure: **Firebase & Cloud Firestore, GitHub Actions** for CI/CD
+
+## Interests & Hobbies
+- 🔹 Passionate about **AI, Finance, and Fitness**
+- 🔹 Gym enthusiast, focused on **strength training and bodybuilding** 🏋️‍♂️
 
 ---
 
@@ -42,8 +46,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-
-
-🚀 **Let's build something great together!**
-
