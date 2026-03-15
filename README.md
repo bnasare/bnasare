@@ -1,49 +1,132 @@
-# Asare Benedict Nana 👋
+# Asare Benedict Nana
 
-🚀 **Software Engineer | A Philosopher | Financial Analyst in Training**
+Software engineer building systems across **mobile, backend, cloud, and financial data infrastructure**.
 
----
+I started learning computing in **January 2023 with no prior background**. Since then, I’ve focused on building production software that solves real problems and scales beyond the classroom.
 
-# 💡 About Me
-
-### Professional Experience
-- 🔹 Lead Mobile Developer at **Superstars** – Leading the rebuild of a next-gen mobile app
-- 🔹 Mobile Developer at **Zomujo** – Building mental health applications
-- 🔹 Mobile Engineer at **Alle-AI** – Developing AI-powered mobile solutions
-
-### Technical Skills
-- 🔹 Backend & Web Development: **Node.js, Express, React, and WordPress**
-- 🔹 Database: **MySQL & MongoDB**
-- 🔹 Cloud & Infrastructure: **Firebase & Cloud Firestore, GitHub Actions** for CI/CD
-
-### Interests & Hobbies
-- 🔹 Passionate about **AI, Finance, and Fitness**
-- 🔹 Gym enthusiast, focusing on **strength training & bodybuilding** 🏋️‍♂️
+Today, my work sits at the intersection of **mobile engineering, cloud infrastructure, and financial technology**.
 
 ---
 
-## 🛠 Tech Stack  
+## Currently Building
 
-| **Category**         | **Technologies**  |
-|----------------------|------------------|
-| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
-| **Backend Development** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
-| **Web Development** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **DevOps & Cloud** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+### Mula DataHub
+A platform focused on making **Ghana Stock Exchange data** easier to access, understand, and use.
 
+Mula DataHub brings together:
+- company disclosures
+- financial reports
+- listed company information
+- live market activity
+
+The goal is simple: **turn scattered public market data into something people can actually use**.
 
 ---
 
-## 🔗 Connect with Me  
-<div>
-    <a href="https://www.linkedin.com/in/benedictasare/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:benedictasare2@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</div>
-<br style="line-height: 1;">
-Got an idea? Drop me a line - always up for a good challenge.
+## What I Do
+
+### Mobile Engineering
+I build cross-platform applications with **Flutter**, with a strong focus on:
+- clean architecture
+- offline-first systems
+- real-time features
+- performance optimization
+
+### Backend Systems
+I build the services that power applications and data platforms, including:
+- RESTful APIs
+- authentication flows
+- data synchronization
+- scalable backend logic
+
+### Cloud & Infrastructure
+I work with tools that help products ship reliably and scale cleanly:
+- Firebase
+- Cloud Firestore
+- GitHub Actions
+- Docker
+- AWS
+
+---
+
+## Experience
+
+### Lead Mobile Engineer · Superstars
+Worked on rebuilding the Superstars mobile platform with better architecture, improved performance, and cleaner API handling.
+
+### Mobile Engineer · Zomujo
+Built mental health applications with real-time chat, wellness tooling, and user-focused product improvements across multiple interconnected apps.
+
+### Freelance Mobile Engineer · Biestand Tech
+Built Flutter-based marketplace experiences with offline-first architecture, personalized feeds, and product workflows for student commerce.
+
+---
+
+## Featured Work
+
+### Mula DataHub
+**Financial data platform**
+A product focused on improving access to public market information in Ghana.
+
+### Cook That Thing
+**Social recipe platform**
+Built with Flutter and Firebase, with real-time notifications, modular architecture, and interactive social features.
+
+---
+
+## Tech Stack
+
+**Mobile**  
+Flutter
+
+**Backend**  
+Node.js, Express
+
+**Web**  
+React, WordPress
+
+**Databases**  
+MySQL, MongoDB, Cloud Firestore, Hive, Isar
+
+**Cloud & DevOps**  
+AWS Certified Cloud Practitioner, Firebase, GitHub Actions, Docker
+
+**Testing & Architecture**  
+Unit Testing, Widget Testing, Integration Testing, Clean Architecture, BLoC, Riverpod, Provider
+
+---
+
+## What I Care About
+
+I care about building software that is:
+- fast
+- reliable
+- maintainable
+- actually useful
+
+Good software should reduce friction, not add to it.
+
+Whether it’s a mobile app, a backend service, or a financial data platform, I’m interested in building systems that turn complexity into clarity.
+
+---
+
+## Current Direction
+
+Right now, I’m going deeper into:
+- financial data infrastructure
+- company valuation and financial analysis
+- cloud architecture
+- production-grade software systems
+
+Long term, I want to build products that sit at the intersection of **software engineering and financial markets**.
+
+---
+
+## Connect
+
+- **LinkedIn:** [benedictasare](https://www.linkedin.com/in/benedictasare/)
+- **Email:** benedictasare2@gmail.com
+
+---
+
+> Building systems, not just apps.
