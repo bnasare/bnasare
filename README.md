@@ -1,132 +1,170 @@
 # Asare Benedict Nana
 
-Software engineer building systems across **mobile, backend, cloud, and financial data infrastructure**.
+Software engineer building systems across **mobile engineering, backend infrastructure, cloud platforms, and financial data systems**.
 
-I started learning computing in **January 2023 with no prior background**. Since then, I’ve focused on building production software that solves real problems and scales beyond the classroom.
+I started learning computing in **January 2023 with no prior background**. Since then, I’ve focused on one thing: **building production software that solves real problems.**
 
-Today, my work sits at the intersection of **mobile engineering, cloud infrastructure, and financial technology**.
+Today my work sits at the intersection of **mobile applications, backend systems, and financial technology.**
 
 ---
 
 ## Currently Building
 
-### Mula DataHub
-A platform focused on making **Ghana Stock Exchange data** easier to access, understand, and use.
+### Mula DataHub  
+https://mulatechnologies.com
 
-Mula DataHub brings together:
-- company disclosures
-- financial reports
-- listed company information
-- live market activity
+A platform designed to make **Ghana Stock Exchange data easier to access, explore, and analyze**.
 
-The goal is simple: **turn scattered public market data into something people can actually use**.
+Mula DataHub aggregates:
+
+- company disclosures  
+- financial reports  
+- listed company data  
+- live market activity  
+
+The goal is simple: **turn scattered public market data into usable infrastructure.**
 
 ---
 
-## What I Do
+## What I Work On
 
-### Mobile Engineering
-I build cross-platform applications with **Flutter**, with a strong focus on:
-- clean architecture
-- offline-first systems
-- real-time features
-- performance optimization
+### Mobile Systems
+
+Building cross-platform applications using **Flutter**, focusing on:
+
+- scalable architecture  
+- offline-first design  
+- real-time features  
+- performance optimization  
+
+---
 
 ### Backend Systems
-I build the services that power applications and data platforms, including:
-- RESTful APIs
-- authentication flows
-- data synchronization
-- scalable backend logic
+
+Designing backend services that power mobile and data platforms.
+
+Work includes:
+
+- RESTful APIs  
+- authentication systems  
+- data ingestion pipelines  
+- data synchronization services  
+
+---
 
 ### Cloud & Infrastructure
-I work with tools that help products ship reliably and scale cleanly:
-- Firebase
-- Cloud Firestore
-- GitHub Actions
-- Docker
-- AWS
+
+Building systems that deploy reliably and scale cleanly.
+
+- CI/CD automation  
+- cloud architecture  
+- containerized services  
 
 ---
 
 ## Experience
 
-### Lead Mobile Engineer · Superstars
-Worked on rebuilding the Superstars mobile platform with better architecture, improved performance, and cleaner API handling.
+### Lead Mobile Engineer  
+**Superstars**
 
-### Mobile Engineer · Zomujo
-Built mental health applications with real-time chat, wellness tooling, and user-focused product improvements across multiple interconnected apps.
+Worked on rebuilding the Superstars mobile platform with improved architecture and performance.
 
-### Freelance Mobile Engineer · Biestand Tech
-Built Flutter-based marketplace experiences with offline-first architecture, personalized feeds, and product workflows for student commerce.
+Focused on scalable mobile design, optimized API handling, and improved application responsiveness.
+
+---
+
+### Mobile Engineer  
+**Zomujo**
+
+Developed multiple mental health applications supporting users, counselors, and therapists.
+
+Implemented real-time communication systems and wellness tracking tools that improved engagement and retention.
+
+---
+
+### Freelance Mobile Engineer  
+**Biestand Tech**
+
+Built Flutter-based marketplace systems with offline-first architecture and optimized product discovery flows.
 
 ---
 
 ## Featured Work
 
-### Mula DataHub
-**Financial data platform**
-A product focused on improving access to public market information in Ghana.
+### Mula DataHub  
+Market data platform improving access to **Ghana Stock Exchange company information and trading activity**.
 
-### Cook That Thing
-**Social recipe platform**
-Built with Flutter and Firebase, with real-time notifications, modular architecture, and interactive social features.
+https://mulatechnologies.com
+
+---
+
+### Cook That Thing  
+Social recipe platform built with Flutter and Firebase featuring real-time notifications and interactive rating systems.
 
 ---
 
 ## Tech Stack
 
-**Mobile**  
+### Mobile
 Flutter
 
-**Backend**  
-Node.js, Express
+### Backend
+Node.js  
+Express  
+Go
 
-**Web**  
-React, WordPress
+### Web
+React  
+WordPress
 
-**Databases**  
-MySQL, MongoDB, Cloud Firestore, Hive, Isar
+### Databases
+MySQL  
+MongoDB  
+Cloud Firestore  
+Hive  
+Isar
 
-**Cloud & DevOps**  
-AWS Certified Cloud Practitioner, Firebase, GitHub Actions, Docker
+### Cloud & Infrastructure
+AWS (Certified Cloud Practitioner)  
+Firebase  
+Docker  
+GitHub Actions
 
-**Testing & Architecture**  
-Unit Testing, Widget Testing, Integration Testing, Clean Architecture, BLoC, Riverpod, Provider
-
----
-
-## What I Care About
-
-I care about building software that is:
-- fast
-- reliable
-- maintainable
-- actually useful
-
-Good software should reduce friction, not add to it.
-
-Whether it’s a mobile app, a backend service, or a financial data platform, I’m interested in building systems that turn complexity into clarity.
+### Architecture & Testing
+Clean Architecture  
+BLoC  
+Riverpod  
+Provider  
+Unit Testing  
+Widget Testing  
+Integration Testing
 
 ---
 
 ## Current Direction
 
-Right now, I’m going deeper into:
-- financial data infrastructure
-- company valuation and financial analysis
-- cloud architecture
-- production-grade software systems
+I’m currently focused on three areas:
 
-Long term, I want to build products that sit at the intersection of **software engineering and financial markets**.
+- **Financial data infrastructure**
+- **Cloud architecture and distributed systems**
+- **Building products at the intersection of software and financial markets**
+
+---
+
+## Philosophy
+
+Software should reduce complexity.
+
+The best systems take difficult information and turn it into **clear, usable tools**.
+
+That is the kind of software I aim to build.
 
 ---
 
 ## Connect
 
-- **LinkedIn:** [benedictasare](https://www.linkedin.com/in/benedictasare/)
-- **Email:** benedictasare2@gmail.com
+LinkedIn  
+https://linkedin.com/in/benedictasare
 
----
-
-> Building systems, not just apps.
+Email  
+benedictasare2@gmail.com
