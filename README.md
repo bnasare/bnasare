@@ -1,6 +1,6 @@
 # Asare Benedict Nana
 
-Software engineer building across mobile, backend, and financial data systems.
+Full-stack engineer building mobile, web, and backend systems with a focus on financial data infrastructure.
 
 ## Current Work
 
@@ -15,8 +15,9 @@ Platform for accessing and analyzing Ghana Stock Exchange data
 ## Focus
 
 - Mobile systems (Flutter)  
-- Backend services (Node.js, Go)  
-- Financial data infrastructure  
+- Backend services (Go, Node.js)  
+- Web applications (React)  
+- Financial data systems  
 
 ## Experience
 
@@ -24,20 +25,20 @@ Platform for accessing and analyzing Ghana Stock Exchange data
 Rebuilt mobile platform with improved architecture and performance  
 
 **Mobile Engineer — Zomujo**  
-Built mental health apps with real-time systems and user engagement tools  
+Built mental health applications with real-time systems and engagement tools  
 
-**Freelance — Biestand Tech**  
-Developed marketplace apps with offline-first architecture  
+**Freelance Engineer — Biestand Tech**  
+Developed marketplace systems with offline-first architecture  
 
 ## Stack
 
-Flutter • Node.js • Go • React  
+Flutter • Go • Node.js • React  
 MySQL • MongoDB • Firestore  
 AWS • Docker • Firebase  
 
 ## Direction
 
-Building at the intersection of software and financial markets  
+Building financial data systems and infrastructure for capital markets  
 
 ## Links
 
