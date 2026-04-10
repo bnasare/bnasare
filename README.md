@@ -1,170 +1,45 @@
 # Asare Benedict Nana
 
-Software engineer building systems across **mobile engineering, backend infrastructure, cloud platforms, and financial data systems**.
+Software engineer building across mobile, backend, and financial data systems.
 
-I started learning computing in **January 2023 with no prior background**. Since then, I’ve focused on one thing: **building production software that solves real problems.**
+## Current Work
 
-Today my work sits at the intersection of **mobile applications, backend systems, and financial technology.**
+**Mula DataHub**  
+https://mulatechnologies.com  
 
----
-
-## Currently Building
-
-### Mula DataHub  
-https://mulatechnologies.com
-
-A platform designed to make **Ghana Stock Exchange data easier to access, explore, and analyze**.
-
-Mula DataHub aggregates:
-
+Platform for accessing and analyzing Ghana Stock Exchange data  
 - company disclosures  
 - financial reports  
-- listed company data  
 - live market activity  
 
-The goal is simple: **turn scattered public market data into usable infrastructure.**
+## Focus
 
----
-
-## What I Work On
-
-### Mobile Systems
-
-Building cross-platform applications using **Flutter**, focusing on:
-
-- scalable architecture  
-- offline-first design  
-- real-time features  
-- performance optimization  
-
----
-
-### Backend Systems
-
-Designing backend services that power mobile and data platforms.
-
-Work includes:
-
-- RESTful APIs  
-- authentication systems  
-- data ingestion pipelines  
-- data synchronization services  
-
----
-
-### Cloud & Infrastructure
-
-Building systems that deploy reliably and scale cleanly.
-
-- CI/CD automation  
-- cloud architecture  
-- containerized services  
-
----
+- Mobile systems (Flutter)  
+- Backend services (Node.js, Go)  
+- Financial data infrastructure  
 
 ## Experience
 
-### Lead Mobile Engineer  
-**Superstars**
+**Lead Mobile Engineer — Superstars**  
+Rebuilt mobile platform with improved architecture and performance  
 
-Worked on rebuilding the Superstars mobile platform with improved architecture and performance.
+**Mobile Engineer — Zomujo**  
+Built mental health apps with real-time systems and user engagement tools  
 
-Focused on scalable mobile design, optimized API handling, and improved application responsiveness.
+**Freelance — Biestand Tech**  
+Developed marketplace apps with offline-first architecture  
 
----
+## Stack
 
-### Mobile Engineer  
-**Zomujo**
+Flutter • Node.js • Go • React  
+MySQL • MongoDB • Firestore  
+AWS • Docker • Firebase  
 
-Developed multiple mental health applications supporting users, counselors, and therapists.
+## Direction
 
-Implemented real-time communication systems and wellness tracking tools that improved engagement and retention.
+Building at the intersection of software and financial markets  
 
----
+## Links
 
-### Freelance Mobile Engineer  
-**Biestand Tech**
-
-Built Flutter-based marketplace systems with offline-first architecture and optimized product discovery flows.
-
----
-
-## Featured Work
-
-### Mula DataHub  
-Market data platform improving access to **Ghana Stock Exchange company information and trading activity**.
-
-https://mulatechnologies.com
-
----
-
-### Cook That Thing  
-Social recipe platform built with Flutter and Firebase featuring real-time notifications and interactive rating systems.
-
----
-
-## Tech Stack
-
-### Mobile
-Flutter
-
-### Backend
-Node.js  
-Express  
-Go
-
-### Web
-React  
-WordPress
-
-### Databases
-MySQL  
-MongoDB  
-Cloud Firestore  
-Hive  
-Isar
-
-### Cloud & Infrastructure
-AWS (Certified Cloud Practitioner)  
-Firebase  
-Docker  
-GitHub Actions
-
-### Architecture & Testing
-Clean Architecture  
-BLoC  
-Riverpod  
-Provider  
-Unit Testing  
-Widget Testing  
-Integration Testing
-
----
-
-## Current Direction
-
-I’m currently focused on three areas:
-
-- **Financial data infrastructure**
-- **Cloud architecture and distributed systems**
-- **Building products at the intersection of software and financial markets**
-
----
-
-## Philosophy
-
-Software should reduce complexity.
-
-The best systems take difficult information and turn it into **clear, usable tools**.
-
-That is the kind of software I aim to build.
-
----
-
-## Connect
-
-LinkedIn  
-https://linkedin.com/in/benedictasare
-
-Email  
-benedictasare2@gmail.com
+LinkedIn: https://linkedin.com/in/benedictasare  
+Email: benedictasare2@gmail.com
